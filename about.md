@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: archive
 page.sidebar: true
 #author_profile: true
 title:  "About"
