@@ -3,7 +3,6 @@ layout: single
 page.sidebar: true
 title:  "About"
 permalink: "/about/"
-classes: wide
 #gallery:
 #  - url: /assets/images/bio=pic.png
 #    image_path: /assets/images/bio=pic.png
@@ -13,10 +12,7 @@ classes: wide
 sidebar:
   - title: "Title"
     image: /assets/images/bio=pic.png
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
+    image_alt: "me "
 
 ---
 
