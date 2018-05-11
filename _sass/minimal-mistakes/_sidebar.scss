@@ -104,11 +104,11 @@
   display: table-cell;
   vertical-align: top;
   width: 36x;
-  height: 100px;
+  height: 36px;
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
+    width: 150px;
     height: auto;
   }
 
