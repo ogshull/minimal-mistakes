@@ -1,7 +1,6 @@
 ---
 layout: single
 page.sidebar: true
-author_profile: true
 title:  "About"
 permalink: "/about/"
 classes: wide
@@ -10,6 +9,14 @@ classes: wide
 #    image_path: /assets/images/bio=pic.png
 #    alt: "placeholder image 1"
 #    title: "Image 1 title caption"
+
+sidebar:
+  - title: "Title"
+    image: /assets/images/bio=pic.png
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
 
 ---
 
