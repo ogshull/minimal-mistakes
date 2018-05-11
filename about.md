@@ -1,6 +1,6 @@
 ---
 layout: single
-page.sidebar: true
+#page.sidebar: true
 title:  "About"
 permalink: "/about/"
 class: wide
@@ -11,7 +11,6 @@ class: wide
 #    title: "Image 1 title caption"
 
 sidebar:
-  - title: "Title"
     image: /assets/images/bio=pic.png
     image_alt: "me "
 
