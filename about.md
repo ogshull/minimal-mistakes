@@ -4,8 +4,7 @@ layout: category
 #author_profile: true
 title:  "About"
 permalink: "/about/"
-
-
+classes: wide
 gallery:
   - url: /assets/images/bio=pic.png
     image_path: /assets/images/bio=pic.png
