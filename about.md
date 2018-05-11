@@ -6,10 +6,9 @@ permalink: "/about/"
 classes: wide
 
 sidebar:
-  title: "work?"
-  image: /assets/images/bio=pic.png
-  image_alt: "me "
-
+  - title: "Title"
+    image: /assets/images/bio=pic.png
+    image_alt: "me"
 ---
 
 
