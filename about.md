@@ -3,6 +3,7 @@ layout: single
 page.sidebar: true
 title:  "About"
 permalink: "/about/"
+class: wide
 #gallery:
 #  - url: /assets/images/bio=pic.png
 #    image_path: /assets/images/bio=pic.png
