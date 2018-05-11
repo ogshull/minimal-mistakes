@@ -1,10 +1,10 @@
 ---
-layout: category
+layout: archive
 title:  "First post!"
 date:   2018-05-10 22:14:50 -0500
 categories: jekyll update
-author_profile: true
-classes: wide
+#author_profile: true
+#classes: wide
 #header:
 #  image: /assets/images/header.jpg
 ---
