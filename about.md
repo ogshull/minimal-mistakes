@@ -9,12 +9,6 @@ sidebar:
     image: /assets/images/bio=pic.png
     image_alt: "me "
 
-#gallery:
-#  - url: /assets/images/bio=pic.png
-#    image_path: /assets/images/bio=pic.png
-#    alt: "placeholder image 1"
-#    title: "Image 1 title caption"
-
 ---
 
 
