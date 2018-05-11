@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 page.sidebar: true
 #author_profile: true
 title:  "About"
