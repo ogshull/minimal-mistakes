@@ -1,9 +1,11 @@
 ---
 layout: category
 page.sidebar: true
-author_profile: true
+#author_profile: true
 title:  "About"
 permalink: "/about/"
+
+
 
 gallery:
   - url: /assets/images/bio=pic.png
