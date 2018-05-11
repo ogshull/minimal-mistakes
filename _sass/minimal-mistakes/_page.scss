@@ -501,7 +501,7 @@
 .wide {
   .page {
     @include breakpoint($large) {
-      padding-right: 50px;
+      padding-left: 5em;
     }
 
     @include breakpoint($x-large) {
