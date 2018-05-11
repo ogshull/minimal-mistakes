@@ -99,8 +99,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Name"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  avatar           : "/assets/images/bio=pic.png"
   location         : "Somewhere"
   email            :
   uri              :
