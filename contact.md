@@ -7,5 +7,7 @@ permalink: "/contact/"
 ---
 
 If you'd like to get in touch you can send me an email (preferred), or reach me by phone at:
+<br>
 email - ogshull@gmail.com
+<br>
 phone - +1-718-710-5421
