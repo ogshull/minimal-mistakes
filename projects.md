@@ -10,10 +10,10 @@ page.sidebar: true
 title:  "Projects"
 permalink: "/projects/"
 ---
-<p>
-List of projects coming soon! These include: <br>
-  • The Rabbit Hole: Cryptocurrency Mining <p>
-  • EMG controlled RC car
-  • Stimulating a cockaroach nerve to have it move with music
-  • Neural Engineering Projects
-  • And more if I can confirm the IP is cool with me posting about it!
+
+Project info coming soon! These include: <br>
+  • The Rabbit Hole: Cryptocurrency Mining <br>
+  • EMG controlled RC car <br>
+  • Stimulating a cockaroach nerve to have it move with music <br>
+  • Neural Engineering Projects <br>
+  • And many more... <br>
