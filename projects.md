@@ -1,7 +1,6 @@
 ---
 layout: splash
-title:  "About"
-excerpt: "Projects"
+#excerpt: "Projects"
 header:
   overlay_image: /assets/images/asics.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
