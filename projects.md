@@ -11,8 +11,7 @@ title:  "Projects"
 permalink: "/projects/"
 ---
 
-<h2> Project info coming soon <br></h2>
-<h3>These include: <br> </h3>
+<h2> Project info coming soon. These include: <br></h2>
   • The Rabbit Hole: Cryptocurrency Mining <br>
   • EMG controlled RC car <br>
   • Stimulating a cockaroach nerve to have it move with music <br>
