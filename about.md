@@ -12,6 +12,6 @@ sidebar:
 ---
 
 <p style="margin-left: 40px">
-My name is Gabi andI am a biomedical engineering PhD student at Duke University working in neural engineering to create electrode arrays for brain computer interfacing. I am also an avid programmer, and follow the blockhain/cryptocurrency world closely. My hobbies include operating my bitcoin mining farm (Hive Mine LLC), playing guitar/piano, exercising, and reading.
+My name is Gabi andI am a biomedical engineering PhD student at Duke University working on designing electrode architectures for applications in <a href="https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface">brain computer interfacing</a>. I also enjoy programming, and follow the blockhain/cryptocurrency world closely. My hobbies include operating my bitcoin mining farm (Hive Mine LLC), playing guitar/piano, exercising, and reading.
 </p>
 
